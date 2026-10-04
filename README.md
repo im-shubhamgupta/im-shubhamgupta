@@ -1,5 +1,8 @@
 # 💫 About Me:
-👨‍💻 I’m currently working as a Backend Engineer, building scalable and secure web applications with PHP, Laravel, MySQL, and AWS.<br><br>🚀 I’m looking to collaborate on backend, API, and AI-powered projects.<br><br>🌱 I’m currently learning Node.js, React, Python AI/LLM, RAG, embeddings, and vector databases.<br><br>💬 Ask me about PHP, Laravel, REST APIs, MySQL, Docker, AWS, and backend architecture.<br><br>⚡ Fun fact: I enjoy exploring new technologies and turning ideas into practical solutions.
+<!-- 👨‍💻 I’m currently working as a Backend Engineer, building scalable and secure web applications with PHP, Laravel, MySQL, and AWS.<br><br>🚀 I’m looking to collaborate on backend, API, and AI-powered projects.<br><br>🌱 I’m currently learning Node.js, React, Python AI/LLM, RAG, embeddings, and vector databases.<br><br>💬 Ask me about PHP, Laravel, REST APIs, MySQL, Docker, AWS, and backend architecture.<br><br>⚡ Fun fact: I enjoy exploring new technologies and turning ideas into practical solutions.-->
+
+👨‍💻 Backend Engineer | PHP • Laravel • MySQL • AWS<br><br>🚀 Building scalable backend systems and REST APIs.<br><br>🌱 Exploring Node.js, AI/LLMs, RAG, embeddings & vector databases.
+🤝 Open to collaborating on backend and AI-powered projects.<br><br>💬 Ask me about Laravel, APIs, databases, Docker & AWS.<br><br>⚡ Always learning, building, and experimenting with new technologies.
 
 
 ## 🌐 Socials:
